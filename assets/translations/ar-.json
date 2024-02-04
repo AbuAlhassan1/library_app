@@ -1,0 +1,18 @@
+{
+    "helloWorld": "مرحبا بالعالم",
+    "username": "اسم المستخدم",
+    "usernameOrEmail": "اسم المستخدم او البريد الالكتروني",
+    "welcomeToIraqiMedicalAssociation": "مرحبا بك في نقابة اطباء العراق",
+    "password": "كلمة المرور",
+    "login": "تسجيل الدخول",
+    "forgetPassword": "هل نسيت كلمة السر؟",
+    "dontHaveAnAccount": "ليس لديك حساب؟",
+    "makeOne": "انشئ واحدا",
+    "welcomeToDMIS": "مرحبا بك في DMIS.",
+    "somethingWentWrong": "حدث خطأ ما",
+    "requests": "الطلبات",
+    "add": "اضافة",
+    "showAll": "عرض الكل",
+    "showResidenceCard": "عرض بطاقة السكن",
+    "address": "العنوان"
+}

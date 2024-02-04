@@ -1,0 +1,18 @@
+{
+    "helloWorld": "Hello World",
+    "username": "Username",
+    "usernameOrEmail": "Username or email",
+    "password": "Password",
+    "welcomeToIraqiMedicalAssociation": "Welcome to iraqi medical association",
+    "login": "Login",
+    "forgetPassword": "Forget password?",
+    "dontHaveAnAccount": "Don't have an account?",
+    "makeOne": "Make one",
+    "welcomeToDMIS": "Welcome to DMIS",
+    "somethingWentWrong": "Something went wrong",
+    "requests": "Requests",
+    "add": "Add",
+    "showAll": "Show all",
+    "showResidenceCard": "Show residence card",
+    "address": "Address"
+}
